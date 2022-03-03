@@ -1,4 +1,4 @@
-<h1> Projeto App gamePlay </h1>
+<h1> Novo Projeto gamePlay </h1>
 </hr>
 <p>projeto sendo desenvolvido para criação de agendamento direto no discord tendo assim a autenticação usando o Discord e fazendo a listagem de pessoas que estão online na <span style='color="#22ee'>gamePlay</span></p>
 
